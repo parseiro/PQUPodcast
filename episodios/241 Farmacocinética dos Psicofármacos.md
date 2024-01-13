@@ -1,4 +1,4 @@
-# Resumo do ChatGPT
+# Resumo
 
 O texto é uma transcrição de um episódio do PQU Podcast, apresentado por Luís Alberto, que aborda a farmacocinética dos
 psicofármacos. Ele menciona a leitura do livro "Prescribing Psychotropics: From Drug Interactions to Pharmacogenetics"
