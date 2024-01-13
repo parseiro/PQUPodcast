@@ -236,7 +236,7 @@ plasmático da medicação aumente. Também causa diminuição da atividade das 
 a meia vida das medicações. E hipoalbuminemia, que combina com o maior nível plasmático de medicação livre, a parcela
 ativa do que está circulando.
 
-# Influência da Genética e Doenças Hepáticas no Metabolismo de Medicamentos
+# Influência da Genética
 A configuração genética do indivíduo é um fator muito importante na atividade dos processos envolvidos no metabolismo,
 nas medicações psiquiátricas. Como bons clínicos, devemos estar atentos à possibilidade de que indivíduos diferentes
 apresentem respostas diferentes às medicações por esse motivo. No entanto, assim como já apontamos nos episódios 22 e
